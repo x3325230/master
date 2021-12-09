@@ -1,0 +1,38 @@
+{"uuid":"ec6fa433-c9ee-49c0-9491-bc35a2e46fea",
+"channels": [],
+"subscriptions": [
+{
+"name":"东南亚频道",
+"url": "https://raw.githubusercontent.com/m3u8playlist/m3u8/master/asia.json"
+},{
+"name":"欧美频道",
+"url": "https://raw.githubusercontent.com/m3u8playlist/m3u8/master/us.json"
+},{
+"name":"频道杂集1",
+"url": "https://raw.githubusercontent.com/m3u8playlist/m3u8/master/1.json"
+},{
+"name":"频道杂集2",
+"url": "https://raw.githubusercontent.com/m3u8playlist/m3u8/master/2.json"
+},{
+"name":"华数",
+"url": "https://raw.githubusercontent.com/m3u8playlist/m3u8/master/wasu.json"
+},{
+"name":"20190309",
+"url": "https://raw.githubusercontent.com/m3u8playlist/m3u8/master/20190309.json"
+},{
+"name":"CCTV",
+"url": "https://raw.githubusercontent.com/m3u8playlist/m3u8/master/cctv.json"
+},{
+"name":"地方卫视",
+"url": "https://raw.githubusercontent.com/m3u8playlist/m3u8/master/weishi.json"
+},{
+"name":"南昌移动全频道",
+"url": "https://raw.githubusercontent.com/m3u8playlist/m3u8/master/ncyd.json"
+},{
+"name":"电台",
+"url": "https://raw.githubusercontent.com/m3u8playlist/m3u8/master/radio.json"
+},{
+"name":"电台-全",
+"url": "https://raw.githubusercontent.com/m3u8playlist/m3u8/master/radioall.json"
+}]
+}

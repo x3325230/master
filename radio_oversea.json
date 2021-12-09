@@ -1,0 +1,172 @@
+{
+	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+	"title": "海外电台",
+
+	"channels": [		
+
+		
+		{
+			"name":"香港电台第1台",
+			"url": "http://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8"
+		},
+		{
+			"name":"香港电台第2台",
+			"url": "http://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8"
+		},
+		{
+			"name":"香港电台第3台",
+			"url": "http://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8"
+		},
+		{
+			"name":"香港电台第4台",
+			"url": "http://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8"
+		},
+		{
+			"name": "香港电台第5台",
+			"url": "http://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8"
+		},
+		{
+			"name": "香港电台普通話台",
+			"url": "http://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8"
+		},
+		
+		{
+			"name":"新城電台知訊997",
+			"url": "http://metroradio-lh.akamaihd.net/i/997_h@349799/master.m3u8"
+		},
+		
+
+		{
+			"name": "新城電台財經104",
+			"url": "http://metroradio-lh.akamaihd.net/i/104_h@349798/master.m3u8"
+		},
+		
+			{
+			"name":"新城電台Metro Plus AM1044",
+			"url": "http://metroradio-lh.akamaihd.net/i/1044_h@349800/master.m3u8"
+		},
+				
+						{
+			"name":"商業電台雷霆881",
+			"url": "http://d2agljdoug3z0j.cloudfront.net/radio-HTTP/cr1-hd.3gp/chunklist.m3u8"
+		},
+		
+						{
+			"name":"商業電台叱咤903",
+			"url": "http://d2agljdoug3z0j.cloudfront.net/radio-HTTP/cr2-hd.3gp/chunklist.m3u8"
+		},
+		{
+			"name":"商業電台AM864",
+			"url": "http://d3ca3xccq5z5hu.cloudfront.net/radio-HTTP/am864.3gp/chunklist.m3u8"
+		},
+		{
+			"name":"BBC Radio 1[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one.m3u8"
+		},
+		{
+			"name":"BBC Radio 1Xtra[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_1xtra.m3u8"
+		},
+		{
+			"name":"BBC Radio 2[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_two.m3u8"
+		},
+		{
+			"name":"BBC Radio 3[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_two.m3u8"
+		},
+		{
+			"name":"BBC Radio 4[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourfm.m3u8"
+		},
+		{
+			"name":"BBC Radio 4LW[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourlw.m3u8"
+		},
+		{
+			"name":"BBC Radio 4 Extra[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_four_extra.m3u8"
+		},
+		{
+			"name":"BBC Radio 5 Live[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live.m3u8"
+		},
+		{
+			"name":"BBC Radio 5 Live Sports Extra[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live_sports_extra.m3u8"
+		},
+		{
+			"name":"BBC Radio 6 Music[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_6music.m3u8"
+		},
+		{
+			"name":"BBC Asian Network[uk ip]",
+			"url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_asian_network.m3u8"
+		},
+		
+		{
+			"name":"BloombergTV",
+			"url": "http://tunein.streamguys1.com/BloombergTV.m3u"
+		},
+
+		{
+			"name": "ESPNFantasySports",
+			"url": "http://tunein.streamguys1.com/ESPNFantasySports.m3u"
+		},
+    {
+			"name":"ESPNTV",
+			"url": "http://tunein.streamguys1.com/ESPNTV.m3u"
+		},
+
+		{
+			"name": "StarTalkRadio",
+			"url": "http://tunein.streamguys1.com/StarTalkRadio.m3u"
+		},
+		{
+			"name": "TEDTalks",
+			"url": "http://tunein.streamguys1.com/TEDTalks.m3u"
+		},
+			{
+			"name": "WTFwithMarcMaron",
+			"url": "http://tunein.streamguys1.com/WTFwithMarcMaron.m3u"
+		},
+		{
+			"name": "auburn",
+			"url": "http://tunein.streamguys1.com/auburn.m3u"
+		},
+			{
+			"name": "bloomberg991",
+			"url": "http://tunein.streamguys1.com/bloomberg991.m3u"
+		},
+		{
+			"name": "cnbc",
+			"url": "http://tunein.streamguys1.com/cnbc.m3u"
+		},
+			{
+			"name": "foxnews",
+			"url": "http://tunein.streamguys1.com/foxnews.m3u"
+		},
+		{
+			"name": "marquette",
+			"url": "http://tunein.streamguys1.com/marquette.m3u"
+		},
+		
+		
+		{
+			"name": "msnbc-free",
+			"url": "http://tunein.streamguys1.com/msnbc-free.m3u"
+		},
+		{
+			"name": "nebraska",
+			"url": "http://tunein.streamguys1.com/nebraska.m3u"
+		},
+		{
+			"name": "newmexico",
+			"url": "http://tunein.streamguys1.com/newmexico.m3u"
+		},
+		{
+			"name": "virginia",
+			"url": "http://tunein.streamguys1.com/virginia.m3u"
+		}
+        ]
+        }

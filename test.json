@@ -1,0 +1,22 @@
+
+{
+	"uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+	"title": "测试频道",
+
+	"channels": [		
+
+    {
+			"name":"日本nhk world",
+      "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/jp/nhk-world.png",
+			"url": "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/domestic/263942/live_ma_s.m3u8"
+		},
+
+		{
+			"name": "日本24news",
+      "logo":"https://raw.githubusercontent.com/m3u8playlist/tvlogo/master/tv/jp/jpnews24.png",
+			"url": "https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8"
+		}
+
+	]
+
+}
